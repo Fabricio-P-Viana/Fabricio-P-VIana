@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Olá 👋, Eu sou o Fabricio Viana</h1>
 <h3 align="center">Um desenvolvedor fullstack web, com foco no back-end</h3>
-<img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
+<img align="right" alt="Coding" width="300" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabricio-p-viana&label=Profile%20views&color=0e75b6&style=flat" alt="fabricio-p-viana" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando [Projeto integrador](https://github.com/Fabricio-P-Viana/Lancho.net)
+- 🔭 Atualmente estou trabalhando [LanchoNet](https://github.com/Fabricio-P-Viana/Lancho.net)
 
 - 🌱 Atualmente estou aprendendo **typeScript**
 
