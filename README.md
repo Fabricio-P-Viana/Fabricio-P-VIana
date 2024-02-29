@@ -15,7 +15,7 @@
 
 - Desenvolvi uma Agenda pessoal com deploy nos servidores Google [Agenda Pessoal](https://github.com/Fabricio-P-Viana/Agenda-pessoal)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://fabricio-p-viana.github.io/meuPortifolio/](https://fabricio-p-viana.github.io/HubProjetos/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [HUB Projetos](https://fabricio-p-viana.github.io/HubProjetos/)
 
 - 💬 Pergunte-me sobre **Node.js, Javascript, Css, Hmtl**
 
