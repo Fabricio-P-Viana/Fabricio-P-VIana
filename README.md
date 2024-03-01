@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente estou trabalhando no projeto [LanchoNet](https://github.com/Fabricio-P-Viana/Lancho.net)
 
-- 🌱 Atualmente estou aprendendo **typeScript**
+- 🌱 Atualmente estou aprendendo **typeScript**,**react**,**flutter** e **AWS**
 
 - Desenvolvi uma API REST full [API REST](https://github.com/Fabricio-P-Viana/api_rest_full)
 
