@@ -19,8 +19,6 @@
 
 - 💬 Pergunte-me sobre **Node.js, Javascript, Css, Hmtl**
 
-- 📫 Como chegar até mim **fabriciopviana@outlook.com**
-
 - 📄 Conheça minhas experiências: Aprendiz na ICOMON, onde pude conhecer e me conectar a pessoas que me ensinaram valores e competências profissionais no setor de TI, onde pude auxiliar técnicos na resolução de problemas tanto físicos como de conexões com servidores, agilidade no atendimento e na resolução foram pontos muito fortes que aprendi nesta vaga, além de conhecer como realmente é o ambiente profissional.
 
 - ⚡ Fato Curioso **meu hobby favorita atualmente é fazer design gráfico**
