@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando no projeto [LanchoNet](https://github.com/Fabricio-P-Viana/Lancho.net)
+- 🔭 Atualmente estou trabalhando no projeto de uma pagina web de pesquisa na prefeitura municipal de Ferraz de vasconcelos
 
-- 🌱 Atualmente estou aprendendo **typeScript**,**react**,**flutter** e **AWS**
+- 🌱 Atualmente estou aprendendo **typeScript** e **react**
 
 - Desenvolvi uma API REST full [API REST](https://github.com/Fabricio-P-Viana/api_rest_full)
 
