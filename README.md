@@ -2,6 +2,7 @@
 
 ###
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="" />
 <h2 align="center">Olá! sou o Fabrício Viana Desenvolvedor Web fullstack!</h2>
 
 ###
@@ -101,6 +102,5 @@
 ###
 
 <br clear="both">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="" />
 
 ###
