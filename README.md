@@ -1,8 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fabricio-P-Viana.Fabricio-P-Viana&left_text=visualiza%C3%A7%C3%B5es"  />
+
 
 ###
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fabricio-P-Viana.Fabricio-P-Viana&left_text=visualiza%C3%A7%C3%B5es"  />
 <h2 align="center">Olá! sou o Fabrício Viana Desenvolvedor Web fullstack!</h2>
 
 ###
@@ -94,8 +95,13 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" href="https://www.instagram.com/fabriciopviana/" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/fabr%C3%ADcio-pereira-viana-950377203/" height="35" alt="linkedin logo"  />
+<a href="https://www.instagram.com/fabriciopviana/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+</a>
+<a href="https://www.linkedin.com/in/fabr%C3%ADcio-pereira-viana-950377203/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+</a>
+
 </div>
 
 ###
