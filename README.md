@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left">Olá! Eu sou o Fabrício, tenho 21 anos e moro em Ferraz de Vasconcelos. Atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec Ferraz. Além disso, sou estagiário de desenvolvimento na Prefeitura de Ferraz de Vasconcelos, onde ganho experiência prática e contribuo para projetos relevantes para a comunidade.<br><br>Estou constantemente aprimorando minhas habilidades em desenvolvimento web. Adoro resolver problemas complexos e criar soluções eficientes e escaláveis. Meu repositório no GitHub reflete essa jornada, com projetos e colaborações que mostram meu progresso e dedicação ao aprendizado contínuo.</p>
+<p align="left">Olá! Eu sou o Fabrício, tenho 21 anos e moro em Ferraz de Vasconcelos. Atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec Ferraz. Além disso, fui estagiário de desenvolvimento na Prefeitura de Ferraz de Vasconcelos por 4 meses, onde ganhei experiência prática e contribuo para projetos relevantes para a comunidade.<br><br>Estou constantemente aprimorando minhas habilidades em desenvolvimento web. Adoro resolver problemas complexos e criar soluções eficientes e escaláveis. Meu repositório no GitHub reflete essa jornada, com projetos e colaborações que mostram meu progresso e dedicação ao aprendizado contínuo.</p>
 
 ###
 
