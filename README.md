@@ -86,7 +86,17 @@
 
 ###
 
-<p align="left">Olá! Eu sou o Fabrício, tenho 21 anos e moro em Ferraz de Vasconcelos. Atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec Ferraz. Além disso, fui estagiário de desenvolvimento na Prefeitura de Ferraz de Vasconcelos por 4 meses, onde ganhei experiência prática e contribuo para projetos relevantes para a comunidade.<br><br>Estou constantemente aprimorando minhas habilidades em desenvolvimento web. Adoro resolver problemas complexos e criar soluções eficientes e escaláveis. Meu repositório no GitHub reflete essa jornada, com projetos e colaborações que mostram meu progresso e dedicação ao aprendizado contínuo.</p>
+<p align="left">
+Olá! Meu nome é Fabrício, tenho 22 anos e moro em Ferraz de Vasconcelos. Desde pequeno sempre tive facilidade com lógica no geral e, naturalmente, desenvolvi o desejo de atuar na área de TI. Após concluir o ensino médio, descobri o universo do desenvolvimento de software — e foi paixão à primeira vista. Me identifiquei profundamente com a área, tanto por sua importância no mundo atual quanto pela forma única como ela integra lógica e criatividade.
+
+Objetivo Profissional
+Minha carreira está em fase inicial, com cerca de 1 ano de experiência como Desenvolvedor Full Stack Júnior. Busco me aprofundar ainda mais na área, me especializando em tecnologias modernas e boas práticas de desenvolvimento. Acredito que posso agregar valor com minha experiência prática, dedicação aos estudos e vontade constante de evoluir.
+
+Meus Hobbies
+Nos meus momentos livres, gosto de criar artes visuais no Canva com mensagens inspiradoras para a igreja que frequento, sempre buscando um design limpo e agradável. Também gosto de jogar com amigos, ler livros técnicos — como Código Limpo — e praticar boliche.
+
+Minhas Conquistas
+Uma das maiores conquistas da minha jornada foi montar um computador com bom desempenho, capaz de acompanhar meu ritmo de estudos e desenvolvimento. Essa era uma meta que estabeleci no meu primeiro emprego, na Icomon, onde fui aprendiz. Também tinha o sonho de iniciar uma faculdade, e consegui alcançá-lo ao final do meu contrato. Hoje, vivo o sonho de atuar como Desenvolvedor Web Full Stack, contribuindo com os avanços da empresa e crescendo a cada dia como profissional..</p>
 
 ###
 
